@@ -35,11 +35,16 @@
   </a>
 </div>
 
+###
 
+<div align="center">
+  <img height="350" src="https://cdn.discordapp.com/attachments/995796441052225580/1228540503520182362/MelRibeiro_-_Overview.gif?ex=662c6a81&is=6619f581&hm=888b82b83350a9ea9b0d76bdb57af8b3aec873d0aa6a12fb56f7ff9a2f53134e&"  />
+</div>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PedrinhoBG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedrinhoBG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
